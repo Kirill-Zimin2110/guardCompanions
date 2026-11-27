@@ -1,0 +1,40 @@
+{
+  "companion_ambient": {
+    "category": "neutral",
+    "sounds": [
+      {"name": "minecraft:entity/villager/idle_1"},
+      {"name": "minecraft:entity/villager/idle_2"},
+      {"name": "minecraft:entity/villager/idle_3"}
+    ]
+  },
+  "companion_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {"name": "minecraft:entity/iron_golem/hurt"}
+    ]
+  },
+  "companion_death": {
+    "category": "neutral",
+    "sounds": [
+      {"name": "minecraft:entity/iron_golem/death"}
+    ]
+  },
+  "companion_attack": {
+    "category": "neutral",
+    "sounds": [
+      {"name": "minecraft:entity/iron_golem/attack"}
+    ]
+  },
+  "companion_command_accepted": {
+    "category": "neutral",
+    "sounds": [
+      {"name": "minecraft:entity/experience_orb/pickup"}
+    ]
+  },
+  "companion_build": {
+    "category": "neutral",
+    "sounds": [
+      {"name": "minecraft:entity/item/pickup"}
+    ]
+  }
+}

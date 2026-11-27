@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="guardcompanion"
+version="1.0.0"
+displayName="Guard Companion"
+description='''
+Компаньон-охранник: следует за владельцем, сражается в четырёх режимах,
+строит дом по русской голосовой... то есть чатовой команде и ловит рыбу в сундук.
+'''
+
+[[dependencies.guardcompanion]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.guardcompanion]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1,1.22)"
+    ordering="NONE"
+    side="BOTH"

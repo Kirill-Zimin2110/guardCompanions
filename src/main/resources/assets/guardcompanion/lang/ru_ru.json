@@ -1,0 +1,26 @@
+{
+  "entity.guardcompanion.companion": "Компаньон-охранник",
+  "item.guardcompanion.companion_spawn_egg": "Яйцо призыва компаньона",
+
+  "guardcompanion.mode.hostiles": "Атака враждебных",
+  "guardcompanion.mode.passives": "Атака мирных",
+  "guardcompanion.mode.all": "Уничтожать всё",
+  "guardcompanion.mode.stay": "Стоять на месте",
+  "guardcompanion.mode.builder": "Строитель",
+  "guardcompanion.mode.fisher": "Рыбак",
+
+  "message.guardcompanion.mode_set": "Режим компаньона: %s",
+  "message.guardcompanion.not_found": "Рядом нет приручённого компаньона",
+  "message.guardcompanion.status": "%s — режим: %s",
+  "message.guardcompanion.unknown_mode": "Неизвестный режим: %s",
+  "message.guardcompanion.stopped": "Компаньон: принял, отбой",
+
+  "message.guardcompanion.builder.accepted": "Компаньон: строю %s (%s блоков), сам добуду материалы",
+  "message.guardcompanion.builder.gathering": "Компаньон: добываю материалы...",
+  "message.guardcompanion.builder.no_resources": "Компаньон: рядом нет %s, строю из того, что есть",
+  "message.guardcompanion.builder.done": "Компаньон: %s готов!",
+
+  "message.guardcompanion.fisher.accepted": "Компаньон: иду рыбачить, улов сложу в сундук",
+  "message.guardcompanion.fisher.no_chest": "Компаньон: рядом нет сундука для улова",
+  "message.guardcompanion.fisher.deposited": "Компаньон: сложил в сундук %s рыбы"
+}
