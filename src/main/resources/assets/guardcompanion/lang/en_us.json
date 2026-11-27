@@ -1,0 +1,26 @@
+{
+  "entity.guardcompanion.companion": "Guard Companion",
+  "item.guardcompanion.companion_spawn_egg": "Companion Spawn Egg",
+
+  "guardcompanion.mode.hostiles": "Attack hostiles",
+  "guardcompanion.mode.passives": "Attack passives",
+  "guardcompanion.mode.all": "Attack everything",
+  "guardcompanion.mode.stay": "Hold position",
+  "guardcompanion.mode.builder": "Builder",
+  "guardcompanion.mode.fisher": "Fisher",
+
+  "message.guardcompanion.mode_set": "Companion mode: %s",
+  "message.guardcompanion.not_found": "No tamed companion nearby",
+  "message.guardcompanion.status": "%s — mode: %s",
+  "message.guardcompanion.unknown_mode": "Unknown mode: %s",
+  "message.guardcompanion.stopped": "Companion: standing down",
+
+  "message.guardcompanion.builder.accepted": "Companion: building %s (%s blocks), gathering materials myself",
+  "message.guardcompanion.builder.gathering": "Companion: gathering materials...",
+  "message.guardcompanion.builder.no_resources": "Companion: no %s nearby, building with what I have",
+  "message.guardcompanion.builder.done": "Companion: %s is finished!",
+
+  "message.guardcompanion.fisher.accepted": "Companion: going fishing, I will store the catch in a chest",
+  "message.guardcompanion.fisher.no_chest": "Companion: no chest nearby to store the catch",
+  "message.guardcompanion.fisher.deposited": "Companion: stored %s fish in the chest"
+}
